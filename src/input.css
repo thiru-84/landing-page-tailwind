@@ -104,7 +104,7 @@ body {
     ),
     url(./assets/img/why-learn-bg.png);
   background-size: cover;
-  background-position: center bottom; /* Ensures the image is at the bottom */
+  background-position: center bottom; 
   background-repeat: no-repeat;
 }
 
